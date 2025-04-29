@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theijattomoto
+- 👋 Hi, I’m IZAT
 - 👀 I’m interested in embedded system, robotics, drone, instrumentation and automation. 
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on developing an Embedded IoT device and AIOT for industrial.
